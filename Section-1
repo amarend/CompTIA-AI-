@@ -1,0 +1,49 @@
+Types of AI 
+o Generative AI 
+o Machine learning 
+o Statistical learning 
+o Transformers 
+o Deep learning 
+o Natural language processing (NLP) 
+ Large language models (LLMs) 
+ Small language models (SLMs) 
+ Generative adversarial networks (GANs)
+==========================
+
+LLM
+Are trained on vast data sets
+GPT4, gemini 
+Deep contextual o/p
+ SLM tiny get - Exceeding in lightweight tasks
+
+Model Size — LLM Billions o parameter
+Hight Computational resources
+High quality and context rich 
+Creative writing and deep analysis  sophisticated responses
+Higher latency 
+Higher GPUs
+Extensive Cloud resources 
+Customer service chatbot    SLM 
+Virtual Assistance  Quick Turnaround etc.
+
+GANs — Generative Adversarial Networks  What are GANs How does it work 
+Examples of usage.
+
+Generative models 
+That use unsupervised learning model
+It lacks output variable, has only input variable 
+The output is based on I/p variable.
+ Images , text, Audio, Video 
+If you want to generate new data then use GAN
+**Conditional GANs? From younger to older image
+You gave the older image and tell it to generate younger self 
+**Pix2Pix GAN 
+Gan  converts pencil drawn network into realistic picture
+**STACK GAN 
+Create image based on given description
+**SRGAN
+Super Resolution GAN  
+Low resolution image into better analysis
+
+
+How does the model look like.
