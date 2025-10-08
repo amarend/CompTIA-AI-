@@ -47,3 +47,24 @@ Low resolution image into better analysis
 
 
 How does the model look like.
+
+Two neural networks are used 
+1. Generator
+2. Discriminator In case of data for training : Random noise becomes input to generator Random Noise is sequence of Random Numbers 
+3. Z~N(0,1) — Normal distribution/Gaussian Distribution Z here is Random Noise  0 = Mean  1 = Standard deviation
+
+How we can do it with python code
+
+Import numpy as np 
+Z = np.random.normal(0,1,size(1,5))
+print(“Gaussian Noise Vector”)
+
+Generators task is to create fake image  Generator now has multiple steps  [Refer image]
+Every image will have height and width and then the RVG for colours
+Now the random numbers should create the image
+ We are using Dense layer and Reshare layer 
+
+More details in Medium for how GAN relates to GAN.
+https://medium.com/system-weakness/what-is-gan-and-relevance-in-cybersecurity-1c01f4cb1ebb
+
+https://www.youtube.com/watch?v=r9mfSrRIFnM
