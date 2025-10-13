@@ -69,3 +69,22 @@ More details in Medium for how GAN relates to GAN.
 https://medium.com/system-weakness/what-is-gan-and-relevance-in-cybersecurity-1c01f4cb1ebb
 
 https://www.youtube.com/watch?v=r9mfSrRIFnM
+
+
+
+Supervised vs Unsupervised Learning 
+supervised learning - 
+>> Data is labeled, you know the i/p and the o/p 
+>> We know from data what is the input and what is the output 
+>> Ex Housing price
+
+Unsupervised learning 
+>> We do noy know what the o/p would be.
+>> It finds patterns in data 
+>> Are computationally complex
+>> Less Accurate.
+
+A hyperparameter in Artificial Intelligence (AI) — especially in Machine Learning (ML) — is a parameter whose value is set before the training process begins, and it controls how the model learns.
+
+What is HYPER-parameter tuning?
+Hyperparameter tuning is the process of finding the optimal set of hyperparameters for a machine learning model to improve its performance
